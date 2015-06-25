@@ -1,3 +1,6 @@
+# This Repo is where I will be syncing the work I do for the workshop
+This will be a work in progress.
+
 # Frontend Masters Workshop App
 
 This repo is for the workshop on "Building Modern Single-Page Web Applications" workshop at [Frontend Masters, June 2015](https://frontendmasters.com/workshops/web-apps/).
@@ -21,84 +24,6 @@ This repo is for the workshop on "Building Modern Single-Page Web Applications" 
     - Consuming an external JSON API
 3. Putting your app on the Internet
 
-
-## Rough Outline
-
-**9:00 Start**
-
-- Short intro talk
-- Project setup
-- Discuss node, npm, hjs-webpack
-- Render basic "hello" content with React
-- Intro to React.js
-- show build step
-
-** frameworks talk/discussion **
-
-- Adding styles
-    - show yeticss.com
-    - create styles folder in src
-    - import yeticss.com
-    - show what happens when you build now
-    - show live reloading in action
-- Convert ES5 React module to ES6
-    - compare them side-by-side
-
-**10:30 - 11:00 morning break**
-
-- Install and use the router
-    - public and 'repos' routes
-    - start with console.log routes
-    - React.render inside method
-    - re-deploy
-- Introduce ampersand-app pattern
-    - demo event signaling via app
-- Add layout.js
-- Local links/Internal Nav Component
-
-**12:30 - 1:45 Lunch Break**
-
-- Authing with GitHub
-    - Understanding Standard OAuth Flows
-    - Keeping a "secret" in a static clientside app
-    - Gatkeeper Microservice
-- Persisting token, modeling 'me'
-- Fetching "me" from github
-- Binding username
-
-**3:15 - 3:45 Afternoon Break**
-
-- Rendering list of Repos
-- Repo Detail Page
-- Rendering The Labels
-- Creating a Label component
-- Adding Octicons
-
-## Day 2
-
-**9:00 Start**
-
-- Editing Mode for Labels
-- Deleting Labels
-- Updating Labels
-- Creating New Labels
-
-**10:30 - 11:00 morning break**
-
-- Configs and Deploys
-- Deploying with Surge
-- Adding A 404 Page
-
-**12:30 - 1:45 Lunch Break**
-
-- Static Isomorphic Rendering
-- Using Standard for Code Style
-
-**3:15 - 3:45 Afternoon Break**
-
-- wrap up discussion
-- open questions
-- open hacking (see suggestions below)
 
 ## Taking it further
 
@@ -128,5 +53,3 @@ In addition, you may want to try adding the following:
 Honest feedback is golden. Please take a minute to say what you liked/what you didn't: http://j.mp/masters-feedback
 
 If you liked it maybe even tweet about it :) I'm [@HenrikJoreteg](http://twitter.com/henrikjoreteg) on twitter. 
-
-<3
